@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bimalstha23
 - 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Vue JS
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me bimalshrestha074@gmail.com
 
