@@ -12,3 +12,5 @@
 bimalstha23/bimalstha23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=bimalstha23"></a>
+<a href="https://github.com/bimalstha23?tab=followers"><img src="https://img.shields.io/github/followers/bimalstha23?label=Followers&style=social" alt="GitHub Badge"></a>
