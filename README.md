@@ -12,4 +12,4 @@
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=bimalstha23"></a>
 <a href="https://github.com/bimalstha23?tab=followers"><img src="https://img.shields.io/github/followers/bimalstha23?label=Followers&style=social" alt="GitHub Badge"></a>
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+<!---<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
